@@ -1,0 +1,97 @@
+GPU 사용 방법 
+- PyTorch에서 보통 사용 
+  - tensor, model, loss 등 계산할 때 GPU로 이동해서 동작 
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu' 
+- gpu가 있는 곳에서는 cuda를 사용하고 없다면 cpu를 사용하도록 설정 
+
+사용법 예시 
+- 모델 
+  model = CNN().to(device)
+- 데이터
+  X = X.to(device), Y=Y.to(device)
+
+전체 코드 적용 방법 -------------------------------------------------------------------------------------------
+# 1. 디바이스 설정
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print("사용 중인 디바이스:", device)
+
+# 2. 데이터 불러오기
+train_dataset = dsets.MNIST(root='mnist_data/', train=True, transform=transforms.ToTensor(), download=True)
+train_loader = torch.utils.data.DataLoader(dataset=train_dataset, batch_size=64, shuffle=True)
+
+# 3. 간단한 CNN 모델 정의
+class CNN(nn.Module):
+    def __init__(self):
+        super(CNN, self).__init__()
+        self.conv1 = nn.Conv2d(1, 16, kernel_size=3, padding=1)
+        self.pool = nn.MaxPool2d(2)
+        self.fc = nn.Linear(16*14*14, 10)
+
+    def forward(self, x):
+        x = self.pool(torch.relu(self.conv1(x)))
+        x = x.view(-1, 16*14*14)
+        x = self.fc(x)
+        return x
+
+# 4. 모델, 손실 함수, 옵티마이저 설정
+model = CNN().to(device)  # 모델 GPU로
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
+
+# 5. 학습
+for epoch in range(1):
+    for images, labels in train_loader:
+        images = images.to(device)     # 입력 GPU로
+        labels = labels.to(device)     # 라벨 GPU로
+
+        outputs = model(images)
+        loss = criterion(outputs, labels)
+
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+
+    print(f"Epoch [{epoch+1}], Loss: {loss.item():.4f}")
+# 1. 디바이스 설정
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print("사용 중인 디바이스:", device)
+
+# 2. 데이터 불러오기
+train_dataset = dsets.MNIST(root='mnist_data/', train=True, transform=transforms.ToTensor(), download=True)
+train_loader = torch.utils.data.DataLoader(dataset=train_dataset, batch_size=64, shuffle=True)
+
+# 3. 간단한 CNN 모델 정의
+class CNN(nn.Module):
+    def __init__(self):
+        super(CNN, self).__init__()
+        self.conv1 = nn.Conv2d(1, 16, kernel_size=3, padding=1)
+        self.pool = nn.MaxPool2d(2)
+        self.fc = nn.Linear(16*14*14, 10)
+
+    def forward(self, x):
+        x = self.pool(torch.relu(self.conv1(x)))
+        x = x.view(-1, 16*14*14)
+        x = self.fc(x)
+        return x
+
+# 4. 모델, 손실 함수, 옵티마이저 설정
+model = CNN().to(device)  # 모델 GPU로
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
+
+# 5. 학습
+for epoch in range(1):
+    for images, labels in train_loader:
+        images = images.to(device)     # 입력 GPU로
+        labels = labels.to(device)     # 라벨 GPU로
+
+        outputs = model(images)
+        loss = criterion(outputs, labels)
+
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+
+    print(f"Epoch [{epoch+1}], Loss: {loss.item():.4f}")
+
