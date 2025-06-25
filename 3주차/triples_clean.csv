@@ -1,0 +1,454 @@
+subject,predicate,object,src_url
+eb4b0736,defines,구어 일상,https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+eb4b0736,defines,문장,https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+eb4b0736,defines,말뭉치 회의,https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+eb4b0736,defines,격식 회의 방송,https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+eb4b0736,defines,대화 격식 가족,https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+eb4b0736,defines,두산 세계 백과사전,https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+b70b56a7,defines,,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,구어 반댓말,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,문어 고정 가지,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,현대 회화 구어,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,구시대 어문 장양,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,갑오개혁 전의 문자,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,발표,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+b70b56a7,defines,두산 세계 백과사전,https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+4f25fe76,defines,높임말 존댓말,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,한자 경칭,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,유럽 사용,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,인칭 경어,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,독일어 경어 별도,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,contrast_with,구별 사용 보통,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,유럽 체계 발달,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,수준,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,네팔어 존칭 등급,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+4f25fe76,defines,,https://ko.wikipedia.org/wiki/%EB%86%92%EC%9E%84%EB%A7%90
+c1a1f1b3,defines,표준말 통일,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+c1a1f1b3,defines,공식 의미,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+c1a1f1b3,defines,수도 나라 대개,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+c1a1f1b3,defines,표준어 대한민국 교양,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+c1a1f1b3,defines,조선 민주주의 문화,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+c1a1f1b3,defines,한국어 로마자 기법,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+38e05bf0,defines,집단,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,학술 의미 로서,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,방언 의미 계층,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,극단 개개인 개인,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,통일 존재,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,방언 기존,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,사람 자신,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,방언 언어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,한국어 시기 방언,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,이후 지방,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,변방 대비 용례,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,간행 이전,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,중앙 경음,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,세기 현대 개념,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어 시간 전파,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,요소 분화,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,다양성 요인 지리,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어 요소,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,사회 성별 계층,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,용역 맥락,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,대화 표준 변칙,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,특정 화자 주민,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,정의 리기,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,공통 상당 부분,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,명칭 권력,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,서로 근본 차이,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,하나,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,연구 일반인,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,규정 시도,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,가장,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,일종 언어 간주,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어 구술 기반,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어 어족 힌디어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,거리 어족 거나,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,example_of,독일어 간주,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,subtype_of,구분 기준,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,자매 언어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,프랑스어 스페인어 언어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,측면 이유,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,유사성,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,분화 로서 체계,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,example_of,변화 예시,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,대한 언어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,연구 위해 자료,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어 음운 체계,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어 어휘 형태,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,공통 어휘 흔적,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,중앙 음운,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,방언 연구 중점,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,개념 어학,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,사용 지역 사회,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,소쉬르 일반 언어학,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,언어학 한국 언어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,확인,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,정승,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,개념 방언,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,방언학 한국 방언,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,최명옥,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,국어 방언학 체계,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,악센트 개념,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,곽충구,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,옛말 간직 함경도,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,국어생활,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,박경,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,고향 충청 여유,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,관련,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+38e05bf0,defines,공용 미디어,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+4aba5a51,defines,인터넷 속어,https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%86%8D%EC%96%B4
+4aba5a51,defines,인터넷 특성 시간,https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%86%8D%EC%96%B4
+4a748d47,defines,언어 정자 철자법,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,표기 규칙,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,contrast_with,맞춤법 구별,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,국내 국제,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,과정 이상,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,도입,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,영어 오소 그리스어,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,한국어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+4a748d47,defines,온라인 검사 보관,https://ko.wikipedia.org/wiki/%EB%A7%9E%EC%B6%A4%EB%B2%95
+ccb9a38a,example_of,반말,https://ko.wikipedia.org/wiki/%EC%98%88%EC%82%AC%EB%A7%90
+ccb9a38a,defines,관계 경우,https://ko.wikipedia.org/wiki/%EC%98%88%EC%82%AC%EB%A7%90
+ccb9a38a,example_of,,https://ko.wikipedia.org/wiki/%EC%98%88%EC%82%AC%EB%A7%90
+461ec93f,defines,,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,일반 대중 통용,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,평판,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,중산 계급 어법,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,단어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,글자 알파벳,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,개념 토속,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,통속 말로 정의,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,집단 사람,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,개인 욕구,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,보통 표현 속어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,example_of,다음 속어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,혼동 비속어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,비어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,아랫사람 불쾌감,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,욕설 비난 거나,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,단어 형식 구성,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,심지어 보통 일지,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,contrast_with,일반인 구별,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,집단 청소년 속어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,속어 세대,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,획득 유행어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,금세,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,대화 표시,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,표현 단지,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,자제 사용 배경,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,국어 어휘론 개설,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,비속어 욕설 개념,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,어문 론집 중앙,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,확인,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,우리말 어원 연구,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,충북 출판,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+461ec93f,defines,공용 미디어,https://ko.wikipedia.org/wiki/%EC%86%8D%EC%96%B4
+42f03079,defines,신어,https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A1%B0%EC%96%B4
+42f03079,defines,일반 어의 준말,https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A1%B0%EC%96%B4
+42f03079,defines,표준어 인정 기도,https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A1%B0%EC%96%B4
+42f03079,defines,주류 사회 사용,https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A1%B0%EC%96%B4
+42f03079,defines,목록 인터넷 신조어,https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A1%B0%EC%96%B4
+42f03079,defines,공용 미디어,https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A1%B0%EC%96%B4
+33a76e08,defines,관용구,https://ko.wikipedia.org/wiki/%EA%B4%80%EC%9A%A9%EA%B5%AC
+33a76e08,defines,극히,https://ko.wikipedia.org/wiki/%EA%B4%80%EC%9A%A9%EA%B5%AC
+eda44f21,defines,고유어 외국,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,용어 차용어 의미,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,해당,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,단어 차용,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,자체,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,영향력 정치,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,언어권,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,한국어 고대 근세,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,점령,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,노르만 정복,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,상태 계속 지배,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,영어 아일랜드,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,종교 전래,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,이슬람교 아랍 기독교,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,문화 용어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,아니메,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,특산 사물,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,김치 아오자이 아이누,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,독일 학자 베르너,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,베츠 외래 수용,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,유럽 대상,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,외국어 변형,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,프랑스어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,현지 정도 변형,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,일부 바꿈,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,독일어 영어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,낱낱 단위,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,영어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,origin_of,발생 욕구,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,단무지,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,낱말,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,라틴어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,하나님 성경 개신교,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,대명사 인칭 용법,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,표기 자국 어의,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,한국어 영어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,표음 키릴 정도,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,자기 영어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,베트남어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,음으로 한자어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,음으로 자국,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,전달 대부분,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,중국어 일본어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,쇼군 일본어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,도쿄역 부분,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,접사 관용구 차용,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,차용어 낱말,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,대량 영향,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,접미사 데키,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,구어 차용,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,example_of,유아,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,감자,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,거짓말,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,차용 소리,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,변화 차이,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,차용 변동 뉘앙스,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,example_of,야채 푸성귀,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,지속 사어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,영어 프랑스어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,문화 차지 비중,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,마담,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,발음 일본어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,뷔페 바이킹,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,규칙 따름 자격,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,형태소 한국어 파생어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,어원 원초,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,어원 낱말 언어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,낱말 형태소 단위,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,언어 로부터 대량,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,아랍어 몽골어 투바어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,외래어 한국어 기법,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,origin_of,기원 단어 한국어,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,일본어 어휘,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+eda44f21,defines,한글 사랑 서울,https://ko.wikipedia.org/wiki/%EC%99%B8%EB%9E%98%EC%96%B4
+ca186da8,defines,띄여쓰기 글쓰기 필자,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,지칭 구두점,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,한글 창제 시기,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,한국어 장로교 교회,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,국내 실제 활용,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,헐버트 감리교,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,통일 제정,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,라틴어 시작 띄어쓰기,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,원래 라틴어 년경,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,널리 방식,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,서양 글쓰기 방식,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,현대 띄어쓰기 일본어,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,한국 글쓰기 한글전용,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,subtype_of,구분 영어,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,라틴어 이용,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,히브리어 아랍어 부분,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,origin_of,공백 라틴어 기원,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,단어 조사 순서,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,제대로,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,염려,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,아래 중요성 사례,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,의미,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,내동 고기 동생,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,시흥 분기점 동시,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,대학생 교회 생선,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,공장 농협 용인,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,할머니,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,할머니 가죽,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,의미 경우,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,다오 나물,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,친구 자꾸만,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,원칙 규칙,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,규정,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,따라서 경우 수도,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,example_of,대학교 사범 한국,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,전자 원칙 후자,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,한국 대학교 사범,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,현실 한국,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,띄어쓰기 한글,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,구조,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,입장 여지,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,example_of,,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,실제 출판물,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,제기 실정,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,조사,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,어미 경우,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,겹칠 경우 조사,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,단위 명사,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,example_of,예시 마리 앞말,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,순서 숫자,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,명사 의존 앞말,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,방지 공백,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,로스 한글 도입,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,헐버트 주창 호머,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,한국어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+ca186da8,defines,체계 북스 외국인,https://ko.wikipedia.org/wiki/%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0
+33ecd43b,defines,현실 반영 시작,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,세기 한국 한자,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,조건 인정 표준어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,문화 사항 기본,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,발음 피해,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,모음,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,개방 교류 발음,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,장단 높낮이,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,소리 강세,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,법칙 갈수록 변화,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,유음 격음화 경음화,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,한국어 법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,발견 어두 조건,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,강제,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,표기 기재 성씨,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,이나 단어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,적용 발음 표기,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,적용 조건 법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,이나,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,시작 이중모음 자음,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,단모음 자음 첫머리,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,모음 받침,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,발음 라렬,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,외국어 법칙 적용,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,파생어 뒷말 합성어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,여성 염불 회계,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,고유어 결합 한자어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,구름 운량 칼슘,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,자음 적용 두음법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,적용,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,조건 적용 법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,첫머리 이외,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,남녀 은닉 독자란,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,준말 음으로,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,국련 국제연합 전경련,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,의존 명사 음대,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,거기 리가,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,외자 이름,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,조선시대 장수 신립,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,opposite_to,외자 이름 반대,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,관찰 법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,두음법칙 한국 남북,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,북한 문화 중국,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,나팔 한자어 인정,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,표준어 내의 관찰,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,example_of,규정 법칙 예외,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,법률 개정 사례,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,규정,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,적용 두음법칙 한국어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,두음법칙 결과,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,년대 보편,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,example_of,예외 한자어 외래어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,초기 이론 시기,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,현재 이외 외래어,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,북한 고려,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,남한 한자어 지역,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,subtype_of,강제 동음 구분,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,opposite_to,동음 이의 반대,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,example_of,남한 여권,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,여권,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,여성 권리 여행,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,표준어 발음,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,subtype_of,이외 단어 구분,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,말살 더욱,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,제약 형태 두음법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,불교 논집 한국,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,고찰 시적 두음법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,국어학 국어 학회,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,두음법칙 시적 연구,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,한중 문학연구 인문,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,맞춤법 문제점 두음법칙,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,배달 학회,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+33ecd43b,defines,낱말 머리 표기,https://ko.wikipedia.org/wiki/%EB%91%90%EC%9D%8C_%EB%B2%95%EC%B9%99
+222d248c,defines,의성어 표시 어휘,https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EC%96%B4
+222d248c,example_of,삐약 동물,https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EC%96%B4
+222d248c,defines,의성어 음운 구조,https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EC%96%B4
+222d248c,example_of,,https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EC%96%B4
+85413afe,defines,의태어 딴말 모양,https://ko.wikipedia.org/wiki/%EC%9D%98%ED%83%9C%EC%96%B4
+85413afe,example_of,모양 엉금엉금,https://ko.wikipedia.org/wiki/%EC%9D%98%ED%83%9C%EC%96%B4
+85413afe,defines,원주민 언어 의태어,https://ko.wikipedia.org/wiki/%EC%9D%98%ED%83%9C%EC%96%B4
+570da48c,defines,의문문,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,example_of,과연,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,defines,,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,defines,추가 물음표,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,includes,의문 포함,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,example_of,,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,defines,언어 의문문 방식,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,defines,전용 굴절 형태,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+570da48c,defines,의문 형태 약어,https://ko.wikipedia.org/wiki/%EC%9D%98%EB%AC%B8%EB%AC%B8
+4de29da8,origin_of,부정 유래 지정,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+4de29da8,opposite_to,긍정 반대 부정,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+4de29da8,defines,상응 언어 문제,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+4de29da8,defines,부정 언어학자 관점,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+4de29da8,defines,여러 추상,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+4de29da8,defines,,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+4de29da8,defines,참조 발화 부정,https://ko.wikipedia.org/wiki/%EB%B6%80%EC%A0%95_(%EC%96%B8%EC%96%B4%ED%95%99)
+e8a6cf6d,defines,문장 행위자 행위,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,행위자 능동태 전환,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,어형 수동 형성,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,경우 수동태,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,인도 유럽 중간,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,수동태 언어 중간,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,대신 피동태 한국어,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,접미사 능동 동사,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,피동 이처럼 파생,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,구성 지다,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,피동 장형 사적,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,수동태 영어,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,주어 동사 분사,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,현재 동작,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,일반 행위자,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,정의 문의,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,includes,자질 포함 자신,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,도식 다음,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,자리 경우 술어,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,형태 기각,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,동사 유지 자리,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,실제 언어 발견,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,수동 고려 귀사,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,정의 승격,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,조합,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,발견,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,이제 형식,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,분류 정상,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,승격,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,동화 강등,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,고찰 고려 간주,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,수동 위계,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,동문,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,자동,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,수동태 형식 분류,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,유형 경우 먼저,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,게르만어 유형,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,사가 수동 유형,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,로망스어 동의 몇몇,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,윤병달 도서 출판,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+e8a6cf6d,defines,혼란,https://ko.wikipedia.org/wiki/%EC%88%98%EB%8F%99%ED%83%9C
+4cafeb05,defines,사동 다음,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,대상 동작 행동,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,중구 법정동,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,광주 광역시 남구,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,경기도 안산시 상록구,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,경상북도 경산시 법정동,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,사동구역 평양,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,동리 지명 여러,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,사동항 항구 여러,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,defines,도로 여러,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+4cafeb05,includes,제목 항목 포함,https://ko.wikipedia.org/wiki/%EC%82%AC%EB%8F%99
+f1625791,defines,로마자 표기 방법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,기법 전자법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,전사,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,기록 전사 음소,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,개별 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,그리스어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,라오어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,러시아어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,아랍어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,일본어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,조지아어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,로마자 기법 한어,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,타이어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,한국어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
+f1625791,defines,히브리어 로마자 기법,https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9E%90_%ED%91%9C%EA%B8%B0%EB%B2%95
