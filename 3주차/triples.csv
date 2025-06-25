@@ -1,0 +1,46 @@
+subject,predicate,object,src_url
+구어체,has_feature,"구어(口語, colloquialism) 또는 구어체는 주로 음성 언어에서 이루어지는 일상적이고 비공식적인 어체를 일컫는다",https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+구어체,has_feature,"대화를 비롯해서 사적 독백, 강연, 강의, 연설, 토론, 회의에서는 구어체 말뭉치를 보통 쓰는 반면에, 신문, 잡지, 소설이나 학술적인 글들에서는 문어체 말뭉치를 쓴다",https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%96%B4
+문어체,has_feature,"구시대의 표현이 많은 글을 문어문이라고 하며, 이런 문장양식을 문어체라고 한다",https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+문어체,has_feature,"그 뒤 언론 매체에 구어체를 사용한 문학 작품들이 발표되면서 언문일치가 이루어졌으나, 여전히 의고체에 바탕을 둔 문어체는 권위가 요구되는 글에 주로 사용되고 있다",https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%96%B4_(%EC%96%B8%EC%96%B4)
+표준어,has_feature,"표준어(표준말, 標準語, 영어: standard language, standard dialect)는 한 나라에서 언어의 통일을 위해 공용어로 사용하는 규범 또는 표준으로서의 언어이다",https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+표준어,has_feature,대한민국 표준어 - 대한민국의 표준어 - 표준어는 교양 있는 사람들이 두루 쓰는 현대 서울말로 정함을 원칙으로 한다,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+표준어,has_feature,문화어 - 조선민주주의인민공화국의 표준어,https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80%EC%96%B4
+방언,has_feature,"방언(方言, 영어: dialect) 또는 표준어가 아닌 지역의 방언인 사투리는 특정 집단에서 사용하는 언어를 일컫는 말이다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,학술적 의미로서의 방언은 언어학에서 한 언어에 대한 분화체를 의미한다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"대개 지역 방언을 의미하지만, 언어학에서는 사회 계층별, 연령대별로도 방언을 나누기도 한다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,극단적인 경우 개개인이 사용하는 개인어(idiolect)까지도 방언으로 볼 수 있다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"방언을 사용하는 것이 소통에 지장을 주진 않는데, 이는 사람들이 방언을 접하고 이를 기존에 알고 있는 뜻과 일치시키기 때문이다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,대부분의 사람들은 자신이 사용하는 언어의 적절한 문법적 지식에 방언의 표현을 대조하여 그 뜻을 이해한다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"지리적 방언과 같은 언어적 다양성은 단순히 이주나 분리에 의해 형성되는 것이 아니라 시간의 작용에 의해 생겨 난 다양성으로, 한 언어가 방언과 차이를 가지게 되는 것은 언어적 전이에 의한 것이다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,한국어권에선 근대 이전 시기 방언이라는 표현은 주로 중국의 변방어를 뜻하는 말이었다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"방언이 지방어의 의미를 얻게 된 것은 근대 이후이며 표준어가 아닌 말, 그 지방에서만 쓰는 말의 의미로 정착된 것은 일제강점기 표준어라는 개념이 대두되면서부터이다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,1880년 간행된 《한불뎐》을 통해 이전까지 지방어를 가리키는 방언의 의미로는 방음(方音)이나 사토리(辭吐俚)라는 표현이 사용되었음을 알 수 있다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,그리고 이런 언어 내적인 요소로 인하여 분화한 방언을 지역 방언이라 한다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,같은 지역에 있으면서도 언어 내적인 요소로는 설명되지 않는 방언은 언어 외적인 요소에 의해 방언이 되었다고 간주한다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"사회 방언은 사회적 계층, 나이, 성별 그리고 여타 사회적 맥락에서 기인하는 요소들에 의해 어떤 계층이든지 다르게 나타 날 수 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"일반적인 대화, 격식을 갖춘 대화, 속어와 표준에 맞지 않는 표현을 상황과 지위에 따라 다르게 사용하므로써 대부분의 방언 공동체는 이렇게 최소 세 가지 이상의 언어적 변칙성을 가질 수 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,방언과 언어를 구분하는 기준은 뚜렷하게 정의내리기 힘들다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,방언과 언어는 공통된 개념을 상당 부분 포함한다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"민족, 문학작품의 존재 여부, 타 언어나 타 방언과의 의사소통가능성 등을 기준으로 삼을 수 있으나, 국가 권력에 의해 언어의 지위와 명칭이 결정되는 일도 있기에 “언어란 육군과 해군을 가진 방언”이라는 말도 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"한편, 중국어는 서로 의사소통이 불가능한 여러 언어나 방언들을 하나로 묶은 용어라고도 볼 수 있지만, 중화인민공화국, 베트남, 라오스, 쿠바에서는 정치·이념상의 이유로 하나의 언어로 분류하고 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,방언과 언어가 자주 혼동되는 이유는 방언 연구와 그 현상을 규명하는 데 있어 용어의 정립이 주로 언어학적 지식을 갖지 않은 일반인들에 의해 주도되었기 때문이다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,허나 방언과 언어의 차이를 규정하려 한 시도는 계속해서 있어왔다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,언어와 방언을 나누는 가장 중요한 기준은 언어적 거리(en:linguistic distance)이다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"예를 들면, 구문 구조가 완전히 다른 두 언어는 언어적 거리가 높다.(예: 한국어, 영어, 일본어, 중국어, 힌디어) 그러나 두 언어 차이가 거의 없는 언어는 방언 또는 동일한 어족의 언어로 볼 수 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"언어가 언어적 거리 측면에서 가까우면, 두 언어는 몹시 유사하기 때문에 '방언'이 해당 언어와 언어적으로 멀리 떨어져있는 것으로 간주되지 않는 이유이기도 하다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"따라서, 언어의 형식 및 구조의 유사성이 낮은 말들은 서로 다른 독립된 언어가 되고 그 유사성이 높은 말들은 방언이 된다는 것이라고 하였다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"방언은 한 언어의 분화체로서 해당 언어 체계의 전반을 가리키지만, 사투리는 표준어가 아닌 것이라는 것에 초점이 맞춰져 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,방언은 역사비교언어학에서 언어 변화의 예시로 설명된다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"특히 지역 방언에 대한 연구는 언어에 대한 복선적인 역사를 규명하는 것을 가능하게 하며, 언어학에서 언어에 대한 이론을 생성하는 데 근거가 된다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"어휘만으로는 언어의 이전 형태에서의 잔재를 논의하는 것은 어려우나, 역사비교언어학에서는 방언의 음운대응을 통해 언어의 실체를 파악하려 한다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"만약 방언에서 사용되는 어휘가 인접하지 않고 멀리 떨어진 두 지역에서 공통적으로 나타난다면, 공통적으로 나타난 어휘가 해당 언어가 가지는 과거 형태에 대한 흔적이라고 볼 수 있다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"중앙어에서는 이미 사라지고 난 어휘가 잔존하여 두 지역의 방언에 존재한다면, 이러한 어휘를 바탕으로 어휘의 음운 대응을 통해 과거의 음운을 식별한다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"영어 언어학에서는 방언과 악센트를 구분하는 데 연구의 중점이 맞춰져 있다면, 한국어 방언학에서는 방언과 사투리의 개념을 구분한다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,"방언이 어떤 지역사회에서 사용되는 말인 반면, 사투리는 해당 방언에서 사용되는 말 중 표준어 어형과 다른 어형을 지칭한다",https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,《방언학》 (한국방언학회) 13: 61-84,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,《방언학》 (한국방언학회) 1: 35-72,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,“방언 악센트와 외국어 악센트의 개념에 대하여”,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,《방언학》 (한국방언학회) 35: 25-48,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,위키낱말사전에 방언 관련 글이 있습니다,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
+방언,has_feature,위키미디어 공용에 방언 관련 미디어 분류가 있습니다.,https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%96%B8
